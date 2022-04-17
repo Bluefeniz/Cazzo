@@ -9,3 +9,4 @@ elseif(numero == 3){
 else{
     console.log("il numero e' minore di 3");
 }
+tre
