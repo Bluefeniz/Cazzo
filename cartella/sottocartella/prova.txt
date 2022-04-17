@@ -1,0 +1,7 @@
+comandi Notepad++
+
+CTRL L elimina riga
+CTRL R ricarica file
+CTRL T SPOSTA  RIGA SOTTO
+CTRL D DUPLICA RIGA
+CTRL K COMMENTA RIGA
